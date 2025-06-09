@@ -1,1 +1,12 @@
 # MachineLearning
+
+# Logistic Regression 
+## 📚 Current Topics Covered
+
+| Model                        | Activation | Learning Technique       | Notes                                     |
+|-----------------------------|------------|--------------------------|-------------------------------------------|
+| Perceptron (Basic)          | Step       | Randomized update        | Binary output (0 or 1), no probabilities  |
+| Perceptron (Sigmoid-based)  | Sigmoid    | Gradient-like updates    | Adds non-linearity, smooth decision making|
+| Logistic Regression (Custom)| Sigmoid    | MLE + Gradient Descent   | Trained using log loss, comparable to sklearn|
+
+---
