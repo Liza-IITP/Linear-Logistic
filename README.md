@@ -1,5 +1,6 @@
 # MachineLearning
-
+# 🧠 Feature Engineering and Exploratory Data Analysis (EDA)
+----------------------------------------------------------------------------------------------------------------------------------
 # Logistic Regression 
 ## 📚 Current Topics Covered
 | Model                         | Activation | Learning Technique        | Notes                                                   |
