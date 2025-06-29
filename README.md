@@ -10,7 +10,7 @@
 
 ---
 
-## 🔢 Linear and Multiple Linear Regression
+## 🔢 Simple and Multiple Linear Regression
 
 | Model                         | Type              | Learning Technique        | Notes                                                                 |
 |------------------------------|-------------------|---------------------------|-----------------------------------------------------------------------|
