@@ -23,6 +23,20 @@
 
 ---
 
+## 📉 Regularized Regression (L1, L2, Elastic Net)
+
+| Model                  | Penalty Type | Learning Technique     | Notes                                                                 |
+|------------------------|--------------|------------------------|-----------------------------------------------------------------------|
+| Ridge Regression       | L2           | Analytical / Gradient  | Penalizes large weights; shrinks coefficients; doesn't zero them out |
+| Lasso Regression       | L1           | Subgradient / Coordinate Descent | Encourages sparsity; can set coefficients exactly to zero (feature selection) |
+| Elastic Net Regression | L1 + L2      | Coordinate Descent     | Combines benefits of Ridge and Lasso; balances sparsity and stability|
+
+✅ **Use Cases**:
+- Ridge: When all features are useful 
+- Lasso: When only a few features are important (feature selection)  
+- Elastic Net: When groups of correlated features are present or hybrid behavior is desired  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------
+
 ## 🧮 Logistic Regression
 
 | Model                           | Activation | Learning Technique                | Notes                                                           |
